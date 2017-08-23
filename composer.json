@@ -13,7 +13,9 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {},
+  "require": {
+    "illuminate/database": "^5.4"
+  },
   "autoload": {
     "Robert430404\\ImbuedPhp\\": "src/ImbuedPhp"
   },
